@@ -1,6 +1,7 @@
 ﻿# bigcreat-Architecture-Diagrams
 
-ROI方法的模型解构
+ROI方法的模型结构
+
 使用[draw.io](app.diagrams.net)绘画，源码文件为.drawio
 
 ## roi1
