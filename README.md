@@ -6,15 +6,19 @@ ROI方法的模型结构
 
 ## roi1
 
-参考论文：https://arxiv.org/abs/1708.08711
+**参考论文：https://arxiv.org/abs/1708.08711
+**
 ![](roi1.png)
 
 ## roi2
 
-参考论文：CBAM
+**参考论文：CBAM
+**
 ![](roi2.png)
 
 ## roi3
 
-参考论文：[The Devil Is in the Details: Window-based Attention for Image Compression](https://arxiv.org/abs/2203.08450)
+**参考论文：[The Devil Is in the Details: Window-based Attention for Image Compression](https://arxiv.org/abs/2203.08450)
+**
+
 ![](roi3.png)
